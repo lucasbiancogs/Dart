@@ -1,5 +1,7 @@
 # Dart
 
-Este é o repositório de exercícios referentes a linguagem Dart desenvolvido no curso de flutter da cod3r.
+### These are exercises using the Dart language.
 
-As anotações que você irá encontrar neste repositório são as que eu usei como auxílio para aprender a linguagem.
+All developed with the flutter course from cod3r.
+
+You'll notice that the annotations within the codes of this repository are in portuguese. That's because I'm learning the language as I'm writing. These notes are made to help me better understand Dart and for my future support.
